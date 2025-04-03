@@ -1,0 +1,7 @@
+verbose: 2
+# 0: errors only
+# 1: errors and important information
+# 2: more information
+# 3: debug
+
+address: 0x15

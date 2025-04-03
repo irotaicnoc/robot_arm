@@ -1,0 +1,7 @@
+# OS PATHS
+MAIN_FOLDER_PATH = '/root/GIT/robot_arm/'
+CONFIG_FOLDER_PATH = MAIN_FOLDER_PATH + 'configs/'
+# OUTPUT_FOLDER_PATH = MAIN_FOLDER_PATH + 'output/'
+# GENERIC_MODEL_FOLDER_PATH = MAIN_FOLDER_PATH + 'models/generic_detector/'
+# MAGIC_MODEL_FOLDER_PATH = MAIN_FOLDER_PATH + 'models/magic_detector/'
+SCRIPT_FOLDER_PATH = MAIN_FOLDER_PATH + 'script_launchers/'
